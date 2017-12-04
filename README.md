@@ -4,7 +4,7 @@
 Enable the **'urlManager'** in **../config/web.php**
 
 ## Second Step
-Add configurations inside 'urlManager'
+Add configurations inside **'urlManager'**
 
 ```
 'urlManager' => [
@@ -20,7 +20,7 @@ Add configurations inside 'urlManager'
 ```
 
 ## Last Step
-Add file *.htaccess* into dir **web**, you can copy the file from this repo
+Add file [*.htaccess*](https://github.com/kevingatp/Yii2-Pretty-URL/blob/master/basic/web/.htaccess) into dir **web**, you can copy the file from this repo
 
 ###### note:
 * Default URL for login
