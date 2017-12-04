@@ -1,7 +1,7 @@
 # Yii2 Pretty URL
 
 ## First Step
-Enable the 'urlManager' in ../config/web.php
+Enable the **'urlManager'** in **../config/web.php**
 
 ## Second Step
 Add configurations inside 'urlManager'
